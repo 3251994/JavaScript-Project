@@ -11,6 +11,7 @@ h1 {
     text-align: center;
     margin-top: 250px;
 }
+
 .button {
     
     font-size: 50px;
@@ -25,8 +26,8 @@ h1 {
 }
 .btn-open:after {
     font-family: "FontAwesome";
-    content:"\f0c9";
-    color: #333;
+    content:"\f142";
+    color: red;
     transition: color .2s;
 } 
 .btn-open:hover:after {
